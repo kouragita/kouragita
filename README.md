@@ -1,5 +1,5 @@
 
-[![MasterHead](https://tenor.com/en-GB/view/test-typing-codes-gif-15828752)]
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoder-gif-27309937&psig=AOvVaw2-XuEeIgimidjvVVH-r6vb&ust=1694024144317000&source=images&cd=vfe&opi=89978449&ved=0CBEQjhxqFwoTCNi__umJlIEDFQAAAAAdAAAAABAD)]
 <h1 align="center">Hi 👋, I'm kouragita</h1>
 <h3 align="center">A passionate software engineer from kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
