@@ -1,8 +1,8 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/Data_Science_Software_Development.jpg)]
 <h1 align="center">Hi 👋, I'm kouragita</h1>
 <h3 align="center">A passionate software engineer from kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/1mwdqr51emcAAAAC/test-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kouragita&label=Profile%20views&color=0e75b6&style=flat" alt="kouragita" /> </p>
 
