@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kouragitam@gmail.com**
 
-- ⚡ Fun fact **I'm facking Hillarious😂😎**
+- ⚡ Fun fact **😂😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
